@@ -54,3 +54,7 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 #endif
+
+#define ENCODERS_PAD_A { F6, D1 }
+#define ENCODERS_PAD_B { F5, D0 }
+#define ENCODER_RESOLUTION 1
