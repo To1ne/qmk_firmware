@@ -3,10 +3,10 @@
 #define TAPPING_TERM 125
 
 /*
- * Enable Hold On Other Key Press to avoid accidental modifier combos.
+ * Do not enable "Hold On Other Key Press"
  * https://docs.qmk.fm/tap_hold#hold-on-other-key-press
  */
-#define HOLD_ON_OTHER_KEY_PRESS
+//#define HOLD_ON_OTHER_KEY_PRESS
 
 /*
  * Enable Permissive hold in an attempt to fix my C-g issue in Emacs
