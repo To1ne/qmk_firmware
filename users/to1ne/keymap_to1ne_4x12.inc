@@ -69,3 +69,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      T1_VERS, DF_CLMK, DF_QWRT, MO_FUNC, MO_FUNC, _______, _______, MO_FUNC, MO_FUNC, _______, _______, DT_PRNT
   ),
 };
+
+// Local Variables:
+// mode: c
+// End:
