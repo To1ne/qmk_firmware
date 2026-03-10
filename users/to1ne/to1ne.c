@@ -1,5 +1,3 @@
-// nothing here yet
-
 #include "to1ne.h"
 #include "version.h"
 #include <stdbool.h>
